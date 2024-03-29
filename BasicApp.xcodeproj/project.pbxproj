@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CA14520D2BAF1FEF0074066C /* BasicAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14520C2BAF1FEF0074066C /* BasicAppApp.swift */; };
+		CA14520D2BAF1FEF0074066C /* BasicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14520C2BAF1FEF0074066C /* BasicApp.swift */; };
 		CA14520F2BAF1FEF0074066C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14520E2BAF1FEF0074066C /* ContentView.swift */; };
 		CA1452112BAF1FFA0074066C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA1452102BAF1FFA0074066C /* Assets.xcassets */; };
 		CA1452142BAF1FFA0074066C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA1452132BAF1FFA0074066C /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		CA1452092BAF1FEF0074066C /* BasicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BasicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CA14520C2BAF1FEF0074066C /* BasicAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicAppApp.swift; sourceTree = "<group>"; };
+		CA14520C2BAF1FEF0074066C /* BasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicApp.swift; sourceTree = "<group>"; };
 		CA14520E2BAF1FEF0074066C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CA1452102BAF1FFA0074066C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA1452132BAF1FFA0074066C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		CA14520B2BAF1FEF0074066C /* BasicApp */ = {
 			isa = PBXGroup;
 			children = (
-				CA14520C2BAF1FEF0074066C /* BasicAppApp.swift */,
+				CA14520C2BAF1FEF0074066C /* BasicApp.swift */,
 				CA14520E2BAF1FEF0074066C /* ContentView.swift */,
 				CA1452102BAF1FFA0074066C /* Assets.xcassets */,
 				CA1452152BAF1FFA0074066C /* BasicApp.entitlements */,
@@ -140,7 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA14520F2BAF1FEF0074066C /* ContentView.swift in Sources */,
-				CA14520D2BAF1FEF0074066C /* BasicAppApp.swift in Sources */,
+				CA14520D2BAF1FEF0074066C /* BasicApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
